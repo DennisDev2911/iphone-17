@@ -68,7 +68,7 @@ function Colors() {
                     </div>
 
                     <div className="text-center mt-16">
-                        <button className="bg-blue-700 hover:bg-blue-800 text-white px-12 py-4 rounded-full text-lg font-medium transition-all duration-300 mb-8 hover:scale-105 shadow-md shadow-blue-500/50 cursor-pointer">
+                        <button className="bg-blue-600 hover:bg-blue-800 text-white px-12 py-4 rounded-full text-lg font-medium transition-all duration-300 mb-8 hover:scale-105 shadow-md shadow-blue-500/50 cursor-pointer">
                             Compre agora á partir de R$ 9.950,00
                         </button>
                         <p>Ou em até 12x de R$ 994,92 sem juros</p>
